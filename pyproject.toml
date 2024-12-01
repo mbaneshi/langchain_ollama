@@ -1,0 +1,10 @@
+[project]
+name = "python-ollama"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=0.3.9",
+    "ollama>=0.4.2",
+]
